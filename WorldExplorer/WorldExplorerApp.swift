@@ -9,7 +9,7 @@ import SwiftUI
 struct WorldExplorerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CountryListView()
         }
     }
 }
